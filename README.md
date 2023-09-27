@@ -1,0 +1,1 @@
+# pokedex-sem-imagem
